@@ -4,4 +4,4 @@ Talk about how to improve type on the web. Originally presented at ChicagoCamps 
 
 [Download the slides](https://github.com/tpoulos/ironing-pixels/raw/master/ironing_pixels.pdf)
 
-[Fill out the feedback spreadsheet](https://docs.google.com/forms/d/e/1FAIpQLSe1IdmJ7inM-Br8SlrrLVkLBEodQHJCnFQzOxL6qeZlqCAtlw/viewform?usp=sf_link)
+[Watch the video](https://www.youtube.com/watch?v=dE6eM3M6cPo&feature=youtu.be)
